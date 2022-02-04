@@ -31,7 +31,7 @@
 
 ## Undefined y null
 
-Hay un par de objetos Javascript que realmente no encajan en ningún tipo de dato. Esos son los valores `undefined` y `null`. Obtendrás `undefined` cuando busques _algo_ que no existe, como una variable que aún no tiene un valor. `undefined` simplemente significa que lo que estás pidiendo no existe.
+Hay muchos pares de objetos Javascript que realmente no encajan en ningún tipo de dato. Esos son los valores `undefined` y `null`. Obtendrás `undefined` cuando busques _algo_ que no existe, como una variable que aún no tiene un valor. `undefined` simplemente significa que lo que estás pidiendo no existe.
 
 ```javascript
 console.log(variableInexistente); // undefined
