@@ -7,6 +7,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
+   display: inline-block;
+   width: auto;
+   height: auto;
 
 }
 
