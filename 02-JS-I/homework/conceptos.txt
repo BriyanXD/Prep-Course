@@ -1,0 +1,20 @@
+Variables: Es como si fuera una caja donde podemos guardar algo en este caso
+datos
+
+si tenemos una manzana y la queremos guardar la metemos en la caja y cuando
+quieras comertela solo la sacas de la caja(variable) y comerla
+
+
+string: Son muchas letras juntas que formar una palabra y esta palabra se guarda en una caja especial que solo guarda palabras
+
+
+funciones: Si tienes un lapiz este puede pintar o rayar entonces su funcion es pintar o rayar las funciones en programacion
+sirven casi igual puede realizar alguna tarea determinada las veces que sea necesario sin volver a crear todo de cero
+como cuando usas el lapiz las veces que quieres sin la necesidad de comprar un lapiz nuevo para cada tarea que escribres
+
+
+Booleano: es un dato que solo puede ser verdadero o falso como se  puede entender como el interruptor de la luz si el interruptor esta presionado significa que la luz esta esta activa por lo tanto esto seria verdadero pero si no esta presionado entonces seria falso 
+
+
+
+sa                                                                

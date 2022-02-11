@@ -1,0 +1,4 @@
+Si las variables con cajas donde podemos guardar datos en los arrays podemos decir que son un monton de cajas una tras otra en donde
+podemos guardar cosas en cada caja y si hace falta espacio podemos agregar una caja mas 
+cada caja tiene un numero para poder saber que caja es 
+si guardamos una pelota en la caja 2 luego cuando busques la pelota podras encontrarla mas rapido

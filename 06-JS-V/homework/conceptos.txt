@@ -1,0 +1,11 @@
+Los prototipos son moldes y atravez de ellos se crean los objetos bueno atravez de ellso se crean todas las cosa de javascript
+
+
+
+el constructor es el plano o mapa donde podremos crear las propiedades de un objeto
+por ejemplo si queremos crear un objeto radio etonces este tendra un color y un tamano pero si queremos crear muchas radios y todas diferentes entonces usamos un plano que tiene propiedades que seran comunes en todas las radio
+
+y cuando vamos a crear una radio nosotros podremos escoger la color y tamano y color a gusto 
+y si queremos crear otra radio extra entonces usamos el mismo plano que usamos para crear la anterior pero solo cambiamos el color y el tamano
+
+

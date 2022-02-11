@@ -1,0 +1,6 @@
+callback es una funcion que se puede ejecutar dentro de otra funcion
+
+por ejemplo en el objeto ventana tenemos dos metodos un metodo llamada abrir y otra cerrar
+si queremos hacer la ventana sea automatica entonces el metodo abrir esperara 2 horas cuando este tiempo se cumpa 
+el metodo abrir ejecutara la funcion puerta.cerrar()
+para que el metodo puede realizar esta accion tiene que recibir la funcion como parametro es decir que tiene que poder leer o ejecutar este metodo dentro de si mismo 

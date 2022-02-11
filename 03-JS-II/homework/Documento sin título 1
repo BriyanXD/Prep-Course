@@ -1,0 +1,17 @@
+cuando queremos repetir una misma tarea podemos usar un for solo tenemos que decirle cuantas veces queremos realizar la tarea y el for se encargara de repetir la tarea las veces que le encargamos
+
+
+&& significa AND es un operador logico nos ayuda a comparar datos con otros datos por ejempo si quieres preguntamos
+el clima esta soleado ? si el clima esta soleado entonces el resultado es verdadero
+y si preguntamos estoy sucio ? si es es asi esto sera verdadero ahora con estos dos datos podemos preguntar
+
+si el clima esta soleado y si estoy sucio entonces es hora de tomar una ducha
+pero si uno de estos dos valores es falso etonces no podras tomar una ducha 
+si esta lloviendo y estas sucio no es hora de tomar una ducha por que puedes enfermar
+si esta soleado y estas limpio no es hora de tomar una ducha por que estas limpio
+y si esta lloviendo y estas limpio tampoco podras tomar una ducha solo podras si las dos preguntas son verdaderas
+
+
+
+
+|| es otro operador logico pero en este caso solo hace falta que una de las preguntas sea verdadera para poder reliar la tarea

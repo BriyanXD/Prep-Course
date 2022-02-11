@@ -3,11 +3,16 @@ h1{
 }
 img{
     width: 400px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 50px;
 }
 #thirdDiv{
     width: 500px;
-    height: 600px;
+    height: auto;
     background-color: coral;
+    margin-left: auto;
+    margin-right: auto;
 }
 #spanId{
     font-size: 18px;

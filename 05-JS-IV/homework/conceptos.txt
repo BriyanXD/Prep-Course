@@ -1,0 +1,27 @@
+Es la forma de representar un objeto de la vida real en la programacion 
+por ejemplo si tines un jueguete entonces esto es un objeto o una pelota es otro objeto 
+los objetos tienen caracteristicas que son diferentes a otros objetos y tambien pueden hacer cosas 
+
+
+
+Propiedad: son las caracteristicas de un objeto por ejemplo en el juguete su color es una caracteriastica
+su tamano es otra caracterista o su forma todo esto es como se ve el objeto
+
+
+Metodo: Son las cosas que puede hacer nuestro objeto por ejemplo en el juguete si este puede hacer ruido esto es un metodo por que 
+puede hacer algo o si puede prender alguna luz esto es otro metodo que hace que prenda una luz 
+si puede moverse esto es otro metodo  los metodos son todo lo que el objeto puede hacer 
+
+
+el bucle for in : es una forma de revisar todas las caracteristicas del objeto y poder verlas por ejemplo podemos ver las caracteristicas 
+del jueguete y ponerla en una hoja de papel el ir viendo cada caracteristica del objeto e ir anotandola en la hora es como si el bucle estaria iterando en el objeto y mueste cada propiedad del objeto
+
+
+notacion de punto: es una forma de accede a las propiedades o metodos de un objeto por ejemplo si queremos saver que color es 
+la puerta para poder averiguarlo : puerta.color esto nos mostraria el color de la puerta 
+o si qeremos ver el tipo de puerta que es seria puerta.tipo y esto nos mostria el tipo de puerta que tenemos
+ahoara si queremos que la puerta realize alguna accion por ejemplo abrirla 
+usamos puerta.abrir() esto es igual a agarrar la perilla de la puerta y abrirla
+o podemos cerrarla con puerta.cerrar()
+
+
